@@ -1,2 +1,7 @@
-first line
-second line
+{ "About myself":[
+	{ :"Surname":"Burova", "name":"Yuliya" },
+	{ "Age":"39"},
+	{ "Animal":"1"},
+	{ "Salary":"1500"}
+]}
+
